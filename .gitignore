@@ -1,0 +1,13 @@
+# Python
+__pycache__/
+*.pyc
+
+# Downloaded GWOSC strain data (large; fetched by the script)
+*.hdf5
+*.gwf
+
+# Editor / OS
+.vscode/
+.ipynb_checkpoints/
+.DS_Store
+Thumbs.db
