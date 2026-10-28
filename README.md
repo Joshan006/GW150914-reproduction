@@ -31,7 +31,7 @@ from public LIGO strain data released by the
 | | |
 |---|---|
 | ![ASD](figures/fig1_asd.png) | ![Chirp](figures/fig2_chirp.png) |
-| **Noise curves.** Seismic wall below ~30 Hz, a floor near 10⁻²³ strain/√Hz over ~100–300 Hz, and narrow instrumental lines (e.g. suspension violin modes near 500 Hz and 1 kHz). | **Whitened, band-passed strain** in both detectors around the merger. |
+| **Noise curves.** Seismic wall below ~30 Hz, a floor near 10⁻²³ strain/√Hz over ~100–300 Hz, and narrow instrumental lines (e.g. suspension violin modes near 500 Hz and 1 kHz). | **Whitened, band-passed strain** in both detectors around the merger, before alignment: the signal is visible in each, but the two traces are offset in time and opposite in sign. |
 | ![Aligned](figures/fig3_h1_l1_aligned.png) | ![Q-scan H1](figures/fig4_qscan_H1.png) |
 | **H1 vs L1 aligned.** After the 6.9 ms shift and sign flip, the two independent detectors track each other through the final cycles around merger. | **H1 Q-transform.** The characteristic chirp sweeping from ~35 Hz to ~250 Hz and ending at merger. |
 
